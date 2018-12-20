@@ -4,7 +4,7 @@ Loans are an extremely powerful financial instrument; they have the potential to
 
 <img width="645" alt="screen shot 2018-11-20 at 12 46 36 pm" src="https://user-images.githubusercontent.com/10730760/48796196-fc966b80-eccc-11e8-838e-720310b743c3.png">
 
-## Challenge Instructions
+## Instructions
 
 Your challenge will be as follows:
 
@@ -18,9 +18,13 @@ Your challenge will be as follows:
 
 The output of your script should be similar to the results shown below. 
 
-<img width="193" alt="screen shot 2018-11-20 at 12 53 02 pm" src="https://user-images.githubusercontent.com/10730760/48796116-c1943800-eccc-11e8-8238-c040f817698d.png">
+<div style="display=block;">
 
-<img width="984" alt="screen shot 2018-11-20 at 2 04 19 pm" src="https://user-images.githubusercontent.com/10730760/48796324-4717e800-eccd-11e8-9b14-a479928905f3.png">
+<img width="150" alt="screen shot 2018-11-20 at 12 53 02 pm" src="https://user-images.githubusercontent.com/10730760/48796116-c1943800-eccc-11e8-8238-c040f817698d.png" style="float=left;">
+
+<img width="350" alt="screen shot 2018-11-20 at 2 04 19 pm" src="https://user-images.githubusercontent.com/10730760/48796324-4717e800-eccd-11e8-9b14-a479928905f3.png" style="float=left;">
+
+</div>
 
 
 All your source code should be pushed to the personal repository which you have created in step 1, along any necessary documentation explaining how to run your script. Be sure to understand your full solution process, as we will be asking you to explain your results in the interview.
