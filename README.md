@@ -1,8 +1,10 @@
 # MAIS 202 - Application Coding Challenge
 
-Loans are an extremely powerful financial instrument; they have the potential to create opportunities and foster growth. To learn more about loans and what influence them, we have provided you with a csv file called *data.csv* that contains data about loans such as their interest rate, purpose, length, grade, and amount in a comma seperated format as shown below.
+Loans are an extremely powerful financial instrument; they have the potential to create opportunities and foster growth. To learn more about loans and what influence them, we have provided you with a csv file called *data.csv* that contains information about loans such as their interest rate, purpose, length, grade, and amount in a comma seperated format as shown below.
 
 <img width="645" alt="screen shot 2018-11-20 at 12 46 36 pm" src="https://user-images.githubusercontent.com/10730760/48796196-fc966b80-eccc-11e8-838e-720310b743c3.png">
+
+## Challenge Instructions
 
 Your challenge will be as follows:
 
@@ -11,6 +13,8 @@ Your challenge will be as follows:
 2. Write a python script which loads the dataset, parses the information, and uses it to calculate the average interest rates for each of the listed purposes. 
 
 3. Plot the results onto a graph.
+
+## Sample Results
 
 The output of your script should be similar to the results shown below. 
 
