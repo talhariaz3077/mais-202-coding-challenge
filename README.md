@@ -20,9 +20,9 @@ The output of your script should be similar to the results shown below.
 
 <div style="display=block;">
 
-<img width="200" alt="screen shot 2018-11-20 at 12 53 02 pm" src="https://user-images.githubusercontent.com/10730760/48796116-c1943800-eccc-11e8-8238-c040f817698d.png" style="float=left;">
+<img width="200" alt="screen shot 2018-11-20 at 12 53 02 pm" src="https://user-images.githubusercontent.com/17223266/50552772-788ab880-0c68-11e9-81d1-9441d1cc858a.png" style="float=left;">
 
-<img width="635" alt="screen shot 2018-11-20 at 2 04 19 pm" src="https://user-images.githubusercontent.com/10730760/48796324-4717e800-eccd-11e8-9b14-a479928905f3.png" style="float=left;">
+<img width="500" alt="screen shot 2018-11-20 at 2 04 19 pm" src="https://user-images.githubusercontent.com/10730760/48796324-4717e800-eccd-11e8-9b14-a479928905f3.png" style="float=left;">
 
 </div>
 
