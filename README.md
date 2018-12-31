@@ -1,5 +1,16 @@
 # MAIS 202 - Application Coding Challenge
 
+Submission of the coding challenge for MAIS 202.
+
+I have followed the specifications provided in the challenge.
+
+My submission takes in the data file, parses the information correctly, and plots a graph of the interest averages accordingly.
+
+Graph is plotted using the 'matplotlib' library. I have completed this challenge using PyCharm IDE and the output is displayed correctly. A screenshot of the chart has also been uploaded for convinience. 
+
+Further details are highlighted in the comments on the source code.
+
+---------------------------------------------------------------------------------------------------------
 Loans are an extremely powerful financial instrument; they have the potential to create opportunities and foster growth. To learn more about loans and what influence them, we have provided you with a csv file called *data.csv* that contains information about loans such as their interest rate, purpose, length, grade, and amount in a comma seperated format as shown below.
 
 <img width="645" alt="screen shot 2018-11-20 at 12 46 36 pm" src="https://user-images.githubusercontent.com/10730760/48796196-fc966b80-eccc-11e8-838e-720310b743c3.png">
